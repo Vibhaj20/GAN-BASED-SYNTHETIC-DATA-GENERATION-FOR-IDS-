@@ -1,0 +1,18 @@
+# Large data files -- keep these on Google Drive, not GitHub
+data/
+*.csv
+
+# Model outputs (large, regeneratable by re-running scripts)
+wcgan_outputs/
+acgan_outputs/
+final_augmented/
+*.pt
+
+# Python cache files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS-specific junk files
+.DS_Store
+Thumbs.db
