@@ -6,12 +6,12 @@ Final year project (VTU, BGSCET, 2023–2027) addressing class imbalance in netw
 
 ## Team
 
-| Member | USN | Role |
-|---|---|---|
-| Vibha J | 1BG23CS189 | GAN implementation lead, project coordinator |
-| Bindushree D | — | Data preprocessing and balancing |
-| Keerthi BR | — | Classifier training and evaluation |
-| Sahana TH | — | Documentation and demo interface |
+| Member |  Role |
+|---|---|
+| Bindushree D | Data preprocessing and balancing |
+| Keerthi BR | Classifier training and evaluation |
+| Sahana TH |  Documentation and demo interface |
+| Vibha J |  GAN implementation lead |
 
 ## Problem Statement
 
